@@ -1,6 +1,5 @@
 # 💼 Walmart Sales Prediction and Demand Analysis
 
-**Technologies:** Python | Greykite | Neural Prophet | Machine Learning | Pandas | Matplotlib | Seaborn
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/pandas-%3E%3D1.0-blue)
 ![Greykite](https://img.shields.io/badge/greykite-latest-green)
