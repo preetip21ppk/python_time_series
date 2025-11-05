@@ -1,9 +1,13 @@
 # 💼 Walmart Sales Prediction and Demand Analysis
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/pandas-%3E%3D1.0-blue)
-![Greykite](https://img.shields.io/badge/greykite-latest-green)
-![NeuralProphet](https://img.shields.io/badge/neuralprophet-latest-orange)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-lightgrey?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-blue?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4BC0C0?style=for-the-badge)
+![Greykite](https://img.shields.io/badge/Greykite-green?style=for-the-badge)
+![NeuralProphet](https://img.shields.io/badge/NeuralProphet-orange?style=for-the-badge)
+
 
 ---
 
